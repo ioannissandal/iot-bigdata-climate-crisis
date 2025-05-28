@@ -21,7 +21,7 @@ Grade: 10/10 (University of Macedonia)
 - Zero Trust Architecture for secure climate data flow
 
 ## 📁 Files Included
-- Summary presentation (PDF,ppt)
+- Summary presentation (PDF)
 
 ## 🎯 Outcome
 Developed a comprehensive framework showing how IoT and Big Data can be utilized to monitor and mitigate the effects of climate change. Highlighted the role of real-time analytics, system integration, and future technologies such as 6G.
